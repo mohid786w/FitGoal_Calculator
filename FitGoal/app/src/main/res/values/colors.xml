@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#000000</color>        <!-- Green -->
+    <color name="primary_dark">#FFFFFF</color>    <!-- Darker Green -->
+    <color name="accent">#FF5722</color>         <!-- Orange Accent -->
+    <color name="background">#000000</color>     <!-- Light Gray Background -->
+    <color name="text_primary">#212121</color>   <!-- Dark Text -->
+    <color name="text_secondary">#757575</color> <!-- Medium Gray Text -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gain_weight">#2196F3</color>    <!-- Blue for weight gain -->
+    <color name="lose_weight">#F44336</color>    <!-- Red for weight loss -->
+</resources>

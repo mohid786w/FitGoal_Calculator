@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.FitGoalPlus" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/accent</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.FitGoalPlus">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>
