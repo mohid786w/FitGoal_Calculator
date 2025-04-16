@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> Career Path Calculator</string>
+    <string name="splash_subtitle">Find Your Ideal Career Path!!</string>
+    <string name="interests_hint">What are your interests? (e.g., helping others, technology)</string>
+    <string name="subject_hint">Your favorite school subject? (e.g., mathematics, art)</string>
+    <string name="hobby_hint">What\'s your hobby? (e.g., gaming, reading)</string>
+    <string name="calculate_button">CALCULATE MY PATH</string>
+    <string name="close_button">CLOSE</string>
+    <string name="learn_more_button">LEARN MORE</string>
+    <string name="result_title">Your Ideal Career Path:</string>
+    <string name="error_empty_fields">Please fill in all fields</string>
+    <string name="TITLE">FIND YOUR CAREER</string>
+    <string name="app_name1">CAREER PATH CALCULATOR</string>
+</resources>
